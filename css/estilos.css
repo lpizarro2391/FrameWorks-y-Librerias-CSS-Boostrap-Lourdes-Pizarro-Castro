@@ -9,6 +9,12 @@
   margin-left: 8%;
   margin-right: 8%;
 }
+.column-wrapping{
+  background: white;
+  min-height: 300px;
+  margin-left: 8%;
+  margin-right: 8%;
+}
 @media (max-width: 768px) {
 .container-fluid{
   width: 100vw;
@@ -27,4 +33,15 @@
    margin-left: -50vw;
    margin-right: -50vw;
   }
+  .column-wrapping{
+    width: 100vw;
+     position: relative;
+     left: 50%;
+     right: 50%;
+     margin-left: -50vw;
+     margin-right: -50vw;
+    }
+
+
+
 }
