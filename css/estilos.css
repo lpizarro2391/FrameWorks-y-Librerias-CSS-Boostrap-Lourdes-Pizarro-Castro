@@ -11,6 +11,9 @@
   margin-top: 100px;
 }
 
-@media (max-width: 770px) {
-  .media{
-  }
+@media (max-width: 576px){
+.container {
+  max-width: 100%;
+  padding: 0px;
+}
+}
