@@ -1,19 +1,8 @@
-.container-fluid{
+.container{
   background-color: #A3564E;
 }
-.navbar{
+.encabezado{
   min-height: 200px;
   background-color: white;
 
-}
-
-.media{
-  margin-top: 100px;
-}
-
-@media (max-width: 576px){
-.container {
-  max-width: 100%;
-  padding: 0px;
-}
 }
