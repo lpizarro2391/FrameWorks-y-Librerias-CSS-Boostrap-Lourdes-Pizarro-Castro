@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .container-fluid{
   background-color: #A3564E;
 }
@@ -15,3 +16,18 @@
   .media{
     width:100%;
   }
+=======
+.container{
+  background-color: #A3564E;
+}
+.navbar{
+  min-height: 200px;
+  background-color: white;
+  align-items: center;
+}
+.media{
+  float: right;
+  margin-top: 50px;
+
+}
+>>>>>>> 7a2df885aa5c4de2fc3a7c04701b17f4790d18e1
