@@ -18,3 +18,16 @@ width: 100%;
 .navbar-nav{
 width: 100%;
 }
+
+.botones{
+  padding-left: 10px;
+
+}
+
+
+.navegacion{
+  background-color: #FFB833;
+}
+.contenido{
+  margin-top: 10px;
+}
