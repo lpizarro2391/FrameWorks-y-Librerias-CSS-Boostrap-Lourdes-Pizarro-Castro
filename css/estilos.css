@@ -9,3 +9,12 @@
 .img-fluid{
 margin-top: 50px;
 }
+
+.nav-item {
+text-align: center;
+width: 100%;
+}
+
+.navbar-nav{
+width: 100%;
+}
