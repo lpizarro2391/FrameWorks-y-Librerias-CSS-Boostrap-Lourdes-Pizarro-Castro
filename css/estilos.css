@@ -44,3 +44,22 @@ width: 100%;
 .no-gutters{
 padding: 10px;
 }
+.buscador{
+  margin: 10px;
+
+}
+.search{
+  padding-bottom: 20px;
+  padding-right: 10px;
+
+}
+.opciones-busqueda{
+  padding-bottom: 20px;
+  padding-right: 10px;
+
+}
+
+.list-group{
+  background-color: white;
+  margin-bottom: 16px;
+}
